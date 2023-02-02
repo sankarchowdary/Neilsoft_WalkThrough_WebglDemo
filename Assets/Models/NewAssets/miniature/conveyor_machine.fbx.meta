@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: c3d3d78b3538a6d45b9a261101666a76
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -1347962024828352386
+    second: product16|coub2_boneAction
+  - first:
+      74: -6361835101499851467
+    second: product16|CouC1_boneAction
+  - first:
+      74: 5706857780865477099
+    second: product16|product15Action
+  - first:
+      74: 7763112376925792811
+    second: product16|product21Action
+  - first:
+      74: 1187043194568325966
+    second: product16|product22Action
+  - first:
+      74: -3556735234816429280
+    second: product16|product23Action
+  - first:
+      74: 8994696006471233788
+    second: product16|product24Action
+  - first:
+      74: -1566439185054214809
+    second: product16|product25Action
+  - first:
+      74: 5341458892699697032
+    second: product16|product32Action
+  - first:
+      74: -9069200299962626618
+    second: product17|coub2_boneAction
+  - first:
+      74: 1551072150208007738
+    second: product17|CouC1_boneAction
+  - first:
+      74: 2004850460276428067
+    second: product17|product15Action
+  - first:
+      74: 8477150597581367324
+    second: product17|product21Action
+  - first:
+      74: 4797454427940789565
+    second: product17|product22Action
+  - first:
+      74: -5649515382433066901
+    second: product17|product23Action
+  - first:
+      74: 1417186382382356538
+    second: product17|product24Action
+  - first:
+      74: -3435142958086147535
+    second: product17|product25Action
+  - first:
+      74: -1635270718157061439
+    second: product17|product32Action
+  - first:
+      74: 5451031890797160494
+    second: product18|coub2_boneAction
+  - first:
+      74: 8864443028073631319
+    second: product18|CouC1_boneAction
+  - first:
+      74: 829114171740294805
+    second: product18|product15Action
+  - first:
+      74: 994803505645190700
+    second: product18|product21Action
+  - first:
+      74: -4319825322773438728
+    second: product18|product22Action
+  - first:
+      74: -8530230896647222170
+    second: product18|product23Action
+  - first:
+      74: -8090039409771434411
+    second: product18|product24Action
+  - first:
+      74: 780296286754012711
+    second: product18|product25Action
+  - first:
+      74: 4638458006677808984
+    second: product18|product32Action
+  - first:
+      74: -4871330781521380946
+    second: product19|coub2_boneAction
+  - first:
+      74: -7138199724530987109
+    second: product19|CouC1_boneAction
+  - first:
+      74: 6677257922090786179
+    second: product19|product15Action
+  - first:
+      74: -5070169147368396586
+    second: product19|product21Action
+  - first:
+      74: 7630584626962153132
+    second: product19|product22Action
+  - first:
+      74: 8790362986319905680
+    second: product19|product23Action
+  - first:
+      74: 6549179139638691065
+    second: product19|product24Action
+  - first:
+      74: -3336574430320472900
+    second: product19|product25Action
+  - first:
+      74: -5898608961871879906
+    second: product19|product32Action
+  - first:
+      74: -6432815106622785362
+    second: product20|coub2_boneAction
+  - first:
+      74: -1563698085586273462
+    second: product20|CouC1_boneAction
+  - first:
+      74: -5393082682620100179
+    second: product20|product15Action
+  - first:
+      74: 1222937555994357617
+    second: product20|product21Action
+  - first:
+      74: 7113306067679269717
+    second: product20|product22Action
+  - first:
+      74: 2738063432705958296
+    second: product20|product23Action
+  - first:
+      74: 3879146447563892683
+    second: product20|product24Action
+  - first:
+      74: -621127623813096931
+    second: product20|product25Action
+  - first:
+      74: -3111649472052684060
+    second: product20|product32Action
+  - first:
+      74: 2841406344338005749
+    second: product25|coub2_boneAction
+  - first:
+      74: -4978601877854601831
+    second: product25|CouC1_boneAction
+  - first:
+      74: -3941170047928676491
+    second: product25|product15Action
+  - first:
+      74: 4311534415158305112
+    second: product25|product21Action
+  - first:
+      74: 6308806353834833948
+    second: product25|product22Action
+  - first:
+      74: -6416193394976404110
+    second: product25|product23Action
+  - first:
+      74: -211905299396582562
+    second: product25|product24Action
+  - first:
+      74: -428374218521712799
+    second: product25|product25Action
+  - first:
+      74: 1445270175569012359
+    second: product25|product32Action
+  - first:
+      74: 6512257826373281241
+    second: product26|coub2_boneAction
+  - first:
+      74: 2981476158301817283
+    second: product26|CouC1_boneAction
+  - first:
+      74: 4803193921942690834
+    second: product26|product15Action
+  - first:
+      74: -6644597669122844249
+    second: product26|product21Action
+  - first:
+      74: 1106407726779660141
+    second: product26|product22Action
+  - first:
+      74: -3180247453180185248
+    second: product26|product23Action
+  - first:
+      74: -8263778091305224374
+    second: product26|product24Action
+  - first:
+      74: -1513389971071982579
+    second: product26|product25Action
+  - first:
+      74: -4251111399044031134
+    second: product26|product32Action
+  - first:
+      74: 9088126295536862003
+    second: product27|coub2_boneAction
+  - first:
+      74: 3727509161835985843
+    second: product27|CouC1_boneAction
+  - first:
+      74: -1885660402527354076
+    second: product27|product15Action
+  - first:
+      74: -5681940056047574491
+    second: product27|product21Action
+  - first:
+      74: 6445361036410296297
+    second: product27|product22Action
+  - first:
+      74: -7038300905416187855
+    second: product27|product23Action
+  - first:
+      74: 4121909591692837551
+    second: product27|product24Action
+  - first:
+      74: 5480497604717398664
+    second: product27|product25Action
+  - first:
+      74: -4942213840353727226
+    second: product27|product32Action
+  - first:
+      74: -2651217307019121320
+    second: product28|coub2_boneAction
+  - first:
+      74: 4182568674714317113
+    second: product28|CouC1_boneAction
+  - first:
+      74: 7323571867073457107
+    second: product28|product15Action
+  - first:
+      74: -3351470975290008753
+    second: product28|product21Action
+  - first:
+      74: -3973797918452295675
+    second: product28|product22Action
+  - first:
+      74: -7637647692920058469
+    second: product28|product23Action
+  - first:
+      74: -3234612463384143279
+    second: product28|product24Action
+  - first:
+      74: -1664493253814963103
+    second: product28|product25Action
+  - first:
+      74: -6010713707118337917
+    second: product28|product32Action
+  - first:
+      74: 2974199261567888393
+    second: product29|coub2_boneAction
+  - first:
+      74: 7074381785058168765
+    second: product29|CouC1_boneAction
+  - first:
+      74: -8383787060674641608
+    second: product29|product15Action
+  - first:
+      74: -1270590446682705368
+    second: product29|product21Action
+  - first:
+      74: 3411744030649200160
+    second: product29|product22Action
+  - first:
+      74: -4786072300796575608
+    second: product29|product23Action
+  - first:
+      74: 3371139132101926982
+    second: product29|product24Action
+  - first:
+      74: -5206003295965912319
+    second: product29|product25Action
+  - first:
+      74: -1561050743657241811
+    second: product29|product32Action
+  - first:
+      74: -2495538552260690423
+    second: product30|coub2_boneAction
+  - first:
+      74: -3522986552535371034
+    second: product30|CouC1_boneAction
+  - first:
+      74: -6655678429237454301
+    second: product30|product15Action
+  - first:
+      74: 8796865254359833218
+    second: product30|product21Action
+  - first:
+      74: -8786913662402826490
+    second: product30|product22Action
+  - first:
+      74: -2272543946041935375
+    second: product30|product23Action
+  - first:
+      74: 8661673124366808093
+    second: product30|product24Action
+  - first:
+      74: 508723427948911511
+    second: product30|product25Action
+  - first:
+      74: 5557520963763118314
+    second: product30|product32Action
+  - first:
+      74: 1315308188149145665
+    second: product31|coub2_boneAction
+  - first:
+      74: -224896328667906516
+    second: product31|CouC1_boneAction
+  - first:
+      74: 215987264658302370
+    second: product31|product15Action
+  - first:
+      74: 6020408624226965324
+    second: product31|product21Action
+  - first:
+      74: 5240057237163023623
+    second: product31|product22Action
+  - first:
+      74: 3634397429786642116
+    second: product31|product23Action
+  - first:
+      74: -8532554295636638984
+    second: product31|product24Action
+  - first:
+      74: 1128429213190472948
+    second: product31|product25Action
+  - first:
+      74: -304520451034864299
+    second: product31|product32Action
+  - first:
+      74: -4410292863708757745
+    second: Cube.001|coub2_boneAction
+  - first:
+      74: -8283703885985975491
+    second: Cube.001|CouC1_boneAction
+  - first:
+      74: -6087568794519179718
+    second: Cube.001|product15Action
+  - first:
+      74: 6808581667496946873
+    second: Cube.001|product21Action
+  - first:
+      74: -7748536952485619438
+    second: Cube.001|product22Action
+  - first:
+      74: 5534113321653510283
+    second: Cube.001|product23Action
+  - first:
+      74: -1121388997616368345
+    second: Cube.001|product24Action
+  - first:
+      74: 5446258848188319249
+    second: Cube.001|product25Action
+  - first:
+      74: 1895054068480072397
+    second: Cube.001|product32Action
+  - first:
+      74: 2753229624790988668
+    second: Cube2|coub2_boneAction
+  - first:
+      74: 1104822761292418526
+    second: Cube2|CouC1_boneAction
+  - first:
+      74: -2597564740660121124
+    second: Cube2|product15Action
+  - first:
+      74: 357263314792943074
+    second: Cube2|product21Action
+  - first:
+      74: 2546403114433184015
+    second: Cube2|product22Action
+  - first:
+      74: -7369020254980239129
+    second: Cube2|product23Action
+  - first:
+      74: -1863015764317109104
+    second: Cube2|product24Action
+  - first:
+      74: 6202818014664039484
+    second: Cube2|product25Action
+  - first:
+      74: -3768824391068444006
+    second: Cube2|product32Action
+  - first:
+      74: 2409706928794756166
+    second: Cube|coub2_boneAction
+  - first:
+      74: -1196056044949298988
+    second: Cube|CouC1_boneAction
+  - first:
+      74: -4274414907939219085
+    second: Cube|product15Action
+  - first:
+      74: 557092628411497279
+    second: Cube|product21Action
+  - first:
+      74: -1064686493528128537
+    second: Cube|product22Action
+  - first:
+      74: -2555725071266124646
+    second: Cube|product23Action
+  - first:
+      74: -5484304442654901101
+    second: Cube|product24Action
+  - first:
+      74: 6536977232990818114
+    second: Cube|product25Action
+  - first:
+      74: -1269573253615200894
+    second: Cube|product32Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL
+    second: {fileID: 2100000, guid: 07efa26331097204bb1a76d07424f254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.001
+    second: {fileID: 2100000, guid: 11cb2d5591e6be0489e0873ae7d30db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.002
+    second: {fileID: 2100000, guid: 8dfd0753d46faf143ae38536a8c3b8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.003
+    second: {fileID: 2100000, guid: e57ae50668f0adb4bb99f3b9756d9956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.004
+    second: {fileID: 2100000, guid: b64bde4d4a017854a804267fc16f0824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.005
+    second: {fileID: 2100000, guid: 29b91f46d1a10e0438bdf382855b4800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.006
+    second: {fileID: 2100000, guid: 1a33f2514eaee5947a8e9e7f5d5013f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.007
+    second: {fileID: 2100000, guid: 3045c35f04cc3ff4391426cb75657e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.008
+    second: {fileID: 2100000, guid: 34d922d79d1d0994ab952962178a2028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.009
+    second: {fileID: 2100000, guid: d98948459ccb41942a96fcaad929ab57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.011
+    second: {fileID: 2100000, guid: 867fa1a64e59c7349a45e34584f5228d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.013
+    second: {fileID: 2100000, guid: dddf758a0a8e2664eb54a4693235571b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.016
+    second: {fileID: 2100000, guid: 5befeb8679474d44fa3a3e875b5bb251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.017
+    second: {fileID: 2100000, guid: 82041f01a826d644a9c78fe3af315615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.018
+    second: {fileID: 2100000, guid: cc750bdfd2d93324993c540b27bac962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.019
+    second: {fileID: 2100000, guid: 18e62678b52f0054091a0d166fe436ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.020
+    second: {fileID: 2100000, guid: ca185c66aa578ed47aeec3d2f3089eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.022
+    second: {fileID: 2100000, guid: e57e91c7150cdee42a32cdbc754f7412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.023
+    second: {fileID: 2100000, guid: 445c751f533769c468ef99b68de965b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.024
+    second: {fileID: 2100000, guid: 34e9439b7b35fae45ba4c520355537e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.025
+    second: {fileID: 2100000, guid: 12ef93ceeb82b1842afc077b6d4aaab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.026
+    second: {fileID: 2100000, guid: d45f224f4f3fca448b6864f4827aa918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.027
+    second: {fileID: 2100000, guid: 478082200bb73474fa52a4780dd88621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.028
+    second: {fileID: 2100000, guid: f55ffbed98e218b4290baf91baf31e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.029
+    second: {fileID: 2100000, guid: 984e35fe451363447bcda5d14e6b8c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.030
+    second: {fileID: 2100000, guid: 139dfb822c873834b901290413b7fbca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.031
+    second: {fileID: 2100000, guid: 0df26102f93174d46b260e7d7160af74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.032
+    second: {fileID: 2100000, guid: 334f1afd92212da40874373848abc1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.033
+    second: {fileID: 2100000, guid: 56e87638e232fc4449719c81196bad54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.034
+    second: {fileID: 2100000, guid: ef0b1fcf421aa6b419f51cbb24914ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.035
+    second: {fileID: 2100000, guid: 38d811ce7bbd7cf4b940c3c86aad74dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.036
+    second: {fileID: 2100000, guid: f2a7332b5e9c14046a8937c5dd22ef2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.037
+    second: {fileID: 2100000, guid: ab8726d0a071c514fbc78a89ccd67fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.038
+    second: {fileID: 2100000, guid: e5f939e529f90484eba60d919964dc57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.039
+    second: {fileID: 2100000, guid: 9c9d5697fa120f44eb5487fb8db24335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.040
+    second: {fileID: 2100000, guid: f373f5cf7d53c1540a5e35bd2534f1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.041
+    second: {fileID: 2100000, guid: 2e86558aa94632243a97ce9482ac05b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.042
+    second: {fileID: 2100000, guid: 4c0053531c0444744bce5e02c3d8d792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.043
+    second: {fileID: 2100000, guid: 8bd5e41bfef20ad42ba749664f0bd56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.044
+    second: {fileID: 2100000, guid: 2e59ab90add214f4b86c017e40139d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.045
+    second: {fileID: 2100000, guid: 6f61bc724502d164dad27a5469cdd21f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.048
+    second: {fileID: 2100000, guid: 8207048759717e04f9f49583fd6f4de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.050
+    second: {fileID: 2100000, guid: 666843472bab31543be90ff4ac0096e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.051
+    second: {fileID: 2100000, guid: b4145686ce927ae4493ded2736e8c160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.052
+    second: {fileID: 2100000, guid: c8b3c9ab6839a89448a1a20a5f832aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.084
+    second: {fileID: 2100000, guid: 0f69332b91cfcaf4385309b8015a02a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.085
+    second: {fileID: 2100000, guid: 6564aa88ef4e62b4b924cc17c722af05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.086
+    second: {fileID: 2100000, guid: fcdf0b7cac840934296ec953399baf56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.087
+    second: {fileID: 2100000, guid: 6a8e296e0d3c0cd48a6a265abd4875d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.088
+    second: {fileID: 2100000, guid: 5f96fa385a57b224a9c72531ab4a3d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.094
+    second: {fileID: 2100000, guid: 6f5e6e8e18eb3b2469fac8da290259b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.095
+    second: {fileID: 2100000, guid: 6803c3f19cdd71248a876768b2e9c470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.096
+    second: {fileID: 2100000, guid: 311c636c969534f4e95087c7bae6147a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.097
+    second: {fileID: 2100000, guid: 5c704fdd8faff3a4ab586e376c3e750b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.098
+    second: {fileID: 2100000, guid: 7b604a9c66b7ce54a93add861829c4b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.099
+    second: {fileID: 2100000, guid: aa19c38cdf6fea0429e9386d0851e99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEFAULT_MTL.100
+    second: {fileID: 2100000, guid: 8a1515755c9acb24dbf13e98f4608bbb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
